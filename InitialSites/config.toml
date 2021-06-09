@@ -1,4 +1,5 @@
 baseURL = "https://e99h2121.github.io/blog-hugo/"
+publishDir = "docs"
 languageCode = "ja-ja"
 title = "e99h2121's New Hugo Site"
 theme = "github-style"
