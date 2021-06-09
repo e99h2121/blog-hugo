@@ -26,5 +26,14 @@
       <description>&lt;p&gt;abstraction show in the post page&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Readme</title>
+      <link>https://e99h2121.github.io/blog-hugo/readme/</link>
+      <pubDate>Wed, 09 Jun 2021 12:37:03 +0900</pubDate>
+      
+      <guid>https://e99h2121.github.io/blog-hugo/readme/</guid>
+      <description>This is yamada_n&amp;rsquo;s blog site.</description>
+    </item>
+    
   </channel>
 </rss>
