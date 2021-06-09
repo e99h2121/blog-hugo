@@ -6,7 +6,17 @@
     <description>Recent content in Posts on e99h2121&#39;s New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-ja</language>
-    <lastBuildDate>Wed, 09 Jun 2021 12:39:18 +0900</lastBuildDate><atom:link href="https://e99h2121.github.io/blog-hugo/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 14:17:46 +0900</lastBuildDate><atom:link href="https://e99h2121.github.io/blog-hugo/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newpost202106091417</title>
+      <link>https://e99h2121.github.io/blog-hugo/post/newpost202106091417/</link>
+      <pubDate>Wed, 09 Jun 2021 14:17:46 +0900</pubDate>
+      
+      <guid>https://e99h2121.github.io/blog-hugo/post/newpost202106091417/</guid>
+      <description>Hello, Hugo!
+読み方はヒューゴで良いのかな？</description>
+    </item>
+    
     <item>
       <title>Title_of_the_post</title>
       <link>https://e99h2121.github.io/blog-hugo/post/title_of_the_post/</link>
