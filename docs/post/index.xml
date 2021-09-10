@@ -6,7 +6,18 @@
     <description>Recent content in Posts on e99h2121&#39;s New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-ja</language>
-    <lastBuildDate>Tue, 15 Jun 2021 15:21:25 +0900</lastBuildDate><atom:link href="https://e99h2121.github.io/blog-hugo/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Sep 2021 05:19:04 +0900</lastBuildDate><atom:link href="https://e99h2121.github.io/blog-hugo/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ただのメモ</title>
+      <link>https://e99h2121.github.io/blog-hugo/post/newpost202109110518/</link>
+      <pubDate>Sat, 11 Sep 2021 05:19:04 +0900</pubDate>
+      
+      <guid>https://e99h2121.github.io/blog-hugo/post/newpost202109110518/</guid>
+      <description>https://qiita.com/chihiro/items/9965cd7eca0380cf288c
+https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
+誤った例 let wrongMap = new Map() wrongMap[&amp;#39;bla&amp;#39;] = &amp;#39;blaa&amp;#39; wrongMap[&amp;#39;bla2&amp;#39;] = &amp;#39;blaaa2&amp;#39; console.log(wrongMap) // Map { bla: &amp;#39;blaa&amp;#39;, bla2: &amp;#39;blaaa2&amp;#39; } console.log(wrongMap.get(&amp;#39;bla&amp;#39;)); 正しくは let rightMap = new Map() rightMap.set(&amp;#39;bla&amp;#39;, &amp;#39;blaa&amp;#39;); rightMap.set(&amp;#39;bla2&amp;#39;, &amp;#39;blaaa2&amp;#39;); console.log(wrongMap) // Map { bla: &amp;#39;blaa&amp;#39;, bla2: &amp;#39;blaaa2&amp;#39; } </description>
+    </item>
+    
     <item>
       <title>Newpost202106151620</title>
       <link>https://e99h2121.github.io/blog-hugo/post/newpost202106151620/</link>
