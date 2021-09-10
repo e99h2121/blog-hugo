@@ -15,7 +15,7 @@
       <guid>https://e99h2121.github.io/blog-hugo/post/newpost202109110518/</guid>
       <description>https://qiita.com/chihiro/items/9965cd7eca0380cf288c
 https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Map
-誤った例 let wrongMap = new Map() wrongMap[&amp;#39;bla&amp;#39;] = &amp;#39;blaa&amp;#39; wrongMap[&amp;#39;bla2&amp;#39;] = &amp;#39;blaaa2&amp;#39; console.log(wrongMap) // Map { bla: &amp;#39;blaa&amp;#39;, bla2: &amp;#39;blaaa2&amp;#39; } console.log(wrongMap.get(&amp;#39;bla&amp;#39;)); 正しくは let rightMap = new Map() rightMap.set(&amp;#39;bla&amp;#39;, &amp;#39;blaa&amp;#39;); rightMap.set(&amp;#39;bla2&amp;#39;, &amp;#39;blaaa2&amp;#39;); console.log(wrongMap) // Map { bla: &amp;#39;blaa&amp;#39;, bla2: &amp;#39;blaaa2&amp;#39; } </description>
+誤った例 let wrongMap = new Map() wrongMap[&amp;#39;bla&amp;#39;] = &amp;#39;blaa&amp;#39; wrongMap[&amp;#39;bla2&amp;#39;] = &amp;#39;blaaa2&amp;#39; console.log(wrongMap) // Map { bla: &amp;#39;blaa&amp;#39;, bla2: &amp;#39;blaaa2&amp;#39; } console.log(wrongMap.get(&amp;#39;bla&amp;#39;)); 正しくは let rightMap = new Map() rightMap.set(&amp;#39;bla&amp;#39;, &amp;#39;blaa&amp;#39;); rightMap.set(&amp;#39;bla2&amp;#39;, &amp;#39;blaaa2&amp;#39;); console.log(rightMap) // Map { bla: &amp;#39;blaa&amp;#39;, bla2: &amp;#39;blaaa2&amp;#39; } </description>
     </item>
     
     <item>
