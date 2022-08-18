@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://e99h2121.github.io/blog-hugo/</loc>
-    <lastmod>2022-03-12T12:58:52+09:00</lastmod>
-  </url><url>
     <loc>https://e99h2121.github.io/blog-hugo/post/newpost202203121257/</loc>
     <lastmod>2022-03-12T12:58:52+09:00</lastmod>
   </url><url>
     <loc>https://e99h2121.github.io/blog-hugo/post/</loc>
+    <lastmod>2022-03-12T12:58:52+09:00</lastmod>
+  </url><url>
+    <loc>https://e99h2121.github.io/blog-hugo/</loc>
     <lastmod>2022-03-12T12:58:52+09:00</lastmod>
   </url><url>
     <loc>https://e99h2121.github.io/blog-hugo/post/newpost202109110518/</loc>
